@@ -1,0 +1,2 @@
+1. On terminal, type 'sudo g++ *filename*.cpp'
+2. Type ./a.out
